@@ -1,0 +1,12 @@
+{
+    "id": "gitlab",
+    "name": "Gitlab",
+    "version": "1.0.0",
+    "description": "Gitlab plugin for Franz",
+    "main": "index.js",
+    "author": "Alex Welch <john.alexwelch@gmail.com",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://gitlab.com/"
+    }
+  }
